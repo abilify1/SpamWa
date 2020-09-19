@@ -1,5 +1,6 @@
-# SpamWa
-Kumpulan spam wa terbaru, script akan terus di update 
+# Script Spam Wa
+Kumpulan spam wa terbaru, script akan terus di update\
+Untuk sementara hanya 2 pilihan yang tersedia
 # Install:
 ```
 pkg update 
