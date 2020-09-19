@@ -1,6 +1,6 @@
 # Script Spam Wa
 Kumpulan spam wa terbaru, script akan terus di update\
-Untuk sementara hanya 2 pilihan yang tersedia
+Untuk sementara hanya 3 pilihan yang tersedia
 # Install:
 ```
 pkg update 
